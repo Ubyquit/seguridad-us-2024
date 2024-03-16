@@ -1,8 +1,8 @@
 
 # NODE Js
-WEB: https://nodejs.org/en
-github: https://github.com/Ubyquit/seguridad-us-2024
-Video: https://youtu.be/NmhiEZsg-po
+- WEB: https://nodejs.org/en
+- github: https://github.com/Ubyquit/seguridad-us-2024
+- Video: https://youtu.be/NmhiEZsg-po
 
 ### Paso 1: Instalación de Librerías
 Primero, necesitarás instalar las librerías necesarias. Abre tu terminal y ejecuta los siguientes comandos:
